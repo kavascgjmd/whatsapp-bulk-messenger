@@ -2,10 +2,6 @@
 
 Automate sending bulk messages via WhatsApp Web using Selenium. This script allows you to send the same message to multiple phone numbers automatically.
 
-## ⚠️ Important Disclaimer
-
-This tool is for **educational purposes only**. Using automation tools with WhatsApp may violate WhatsApp's Terms of Service. Use at your own risk. WhatsApp may temporarily or permanently ban accounts that use automation tools.
-
 ## Features
 
 - ✅ Automated message sending via WhatsApp Web
